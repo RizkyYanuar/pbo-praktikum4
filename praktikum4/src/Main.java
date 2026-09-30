@@ -10,5 +10,8 @@ public class Main {
 
         System.out.println("Circle 1 radius: " + circle1.getRadius());
         System.out.println("Circle 1 color: " + circle1.getColor());
+
+
+        System.out.println(circle1);
     }
 }
