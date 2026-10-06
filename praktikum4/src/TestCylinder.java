@@ -9,13 +9,13 @@ public class TestCylinder {
         System.out.println(c3);
     }
 
-    private static void printCylinder(String name, Cylinder c) {
-        System.out.println(name);
-        System.out.println("radius = " + c.getRadius());
-        System.out.println("height = " + c.getHeight());
-        System.out.println("base area = " + c.getArea());
-        System.out.println("volume = " + c.getVolume());
-        System.out.println();
-    }
+    // private static void printCylinder(String name, Cylinder c) {
+    //     System.out.println(name);
+    //     System.out.println("radius = " + c.getRadius());
+    //     System.out.println("height = " + c.getHeight());
+    //     System.out.println("base area = " + c.getArea());
+    //     System.out.println("volume = " + c.getVolume());
+    //     System.out.println();
+    // }
     
 }
